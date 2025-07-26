@@ -1,6 +1,6 @@
 # app/explainer.py
 
-import openaiaaaa
+import openaiaa
 import os
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
