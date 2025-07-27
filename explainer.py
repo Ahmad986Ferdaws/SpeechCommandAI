@@ -1,7 +1,7 @@
 # app/explainer.py
 
 import openai
-import osccc
+import oscc
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
